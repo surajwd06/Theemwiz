@@ -15,11 +15,6 @@ body {
   width: 100%;
 }
 
-.logo {
-  width: 70%;
-  margin: 0 auto;
-  padding: 40px 0;
-}
 .Rectangle {
   width: 70%;
   margin: 0 auto;
@@ -778,8 +773,9 @@ a {
 }
 
 .navbar nav ul {
-  display: flex;
-  gap: 2rem;
+    display: flex
+;
+    gap: 11rem;
 }
 
 .navbar a {
